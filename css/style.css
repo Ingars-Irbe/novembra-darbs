@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Calistoga|Caveat+Brush|Prompt&display=swap');
+body{
+	font-family: Tahoma;
+	background-color: lightskyblue;
+}
+
+.main{
+	background-color: lightskyblue;
+
+}
+.main{
+	width: 1000px;
+	float: inside;
+	margin: auto;
+}
+
+footer{
+	text-align: right;
+	width: 800px;
+	margin-top: 35px;
+}
+
+nav{
+	background-color: #000000;
+}
+
+
+nav>ul{
+	text-align: right;
+	background-color: darkslategray;
+	height: 50px;
+
+}
+
+nav>ul>li{
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #286E8E ;
+	position: relative;
+	top:13px;
+	font-family: 'Tahoma';
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-right: 15px;
+
+}
+
+nav>ul>li>a{
+	text-decoration: none;
+	color:#ffffff;
+	font-size: large;
+}
+
+
+nav>ul>li>a:hover{
+	text-decoration: none;
+	color:#ffffff;
+	text-decoration: underline;
+}
+
+
+
+
+main{
+	font-family: 'Prompt';
+	margin-top: 25px;
+	margin-left: 30px;
+	padding: 0px;
+	float:left;
+	color: white;
+	font-size: 20px;
+
+}
+
+
+.rightasisde{
+	width: 200px;
+	background-color: red;
+	float:right;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	color:#ffffff;
+	font-size: large;
+
+}
+
+footer{
+	clear: left;
+}
+
+
+
+
+header{
+	font-size: 60px;
+	font-family: 'Calistoga';
+}
+
+.main>div{
+	margin-bottom: 15px;
+	font-size: 38px;
+	margin-left: 30px;
+	font-family: 'Caveat+Brush';
+	text-align: center;
+}
+
+iframe{
+	margin-left: 130px;
+}
+
+img{
+	float: right;
+	margin-right: 40px;
+	margin-left:0px ;
+
+}
+
+
+section>p{
+	width: 600px;
+	font-family: 'Caveat+Brush';
+	font-size: 26px;
+	float: left;
+	margin-left: 40px;
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	background-color: darkcyan;
+
+
+}
+
+.D>img{
+	margin: fill;
+}
